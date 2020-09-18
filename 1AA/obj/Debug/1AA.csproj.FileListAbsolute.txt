@@ -1,0 +1,17 @@
+C:\Users\Juan\Desktop\UDA\Laboratorio II\1AA\1AA\bin\Debug\1AA.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\1AA\1AA\obj\Debug\_1AA.Form1.resources
+C:\Users\Juan\Desktop\UDA\Laboratorio II\1AA\1AA\obj\Debug\_1AA.Properties.Resources.resources
+C:\Users\Juan\Desktop\UDA\Laboratorio II\1AA\1AA\obj\Debug\1AA.csproj.GenerateResource.Cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\1AA\1AA\bin\Debug\1AA.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\1AA\1AA\bin\Debug\1AA.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\1AA\1AA\obj\Debug\1AA.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\1AA\1AA\obj\Debug\1AA.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Juego_Figuras\1AA\bin\Debug\1AA.exe.config
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Juego_Figuras\1AA\obj\Debug\1AA.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Juego_Figuras\1AA\obj\Debug\1AA.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Juego_Figuras\1AA\bin\Debug\1AA.exe
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Juego_Figuras\1AA\bin\Debug\1AA.pdb
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Juego_Figuras\1AA\obj\Debug\1AA.csprojResolveAssemblyReference.cache
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Juego_Figuras\1AA\obj\Debug\Juego_Figura.Form1.resources
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Juego_Figuras\1AA\obj\Debug\_1AA.Properties.Resources.resources
+C:\Users\Juan\Desktop\UDA\Laboratorio II\Juego_Figuras\1AA\obj\Debug\1AA.csproj.GenerateResource.Cache
